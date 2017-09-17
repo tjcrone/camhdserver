@@ -32,9 +32,8 @@ Notes and links researching the new CamHD Compute Engine server.
 
 #### Memory ####
 
-8x [Timetec Samsung IC 32GB DDR4 2400MHz PC4-19200 Registered ECC](http://a.co/7y3TGnH)
- - $290/ea
- - very flexible on memory. don't really care as long as it works.
+8x [Samsung M393A4K40BB1-CRC 32GB DDR4-2400 LP ECC Reg Server Memory](http://a.co/1hc4rOO)
+ - $314/ea
 
 #### HBAs ####
 
@@ -71,7 +70,7 @@ Notes and links researching the new CamHD Compute Engine server.
 
 #### Total ####
 
-$14,400
+$14,621
 
 
 
