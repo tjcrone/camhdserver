@@ -14,6 +14,7 @@ Notes and links researching the new CamHD Compute Engine server.
 
 1x [Supermicro SuperChassis 846BA-R920B](http://www.supermicro.com/products/chassis/4U/846/SC846BA-R920B)
  - [http://a.co/6cDFI4Q](http://a.co/6cDFI4Q)
+ - we may want to order the 1280 W version of this case ([846BA-R1K28B](http://www.supermicro.com/products/chassis/4U/846/SC846BA-R1K28B))
  - $1249
 
 1x [Supermicro 2x2.5" Hotswap Adapter MCP-220-84606-0N](http://www.wiredzone.com/supermicro-components-hard-drives-accessories-mcp-220-84606-0n-10022043)
