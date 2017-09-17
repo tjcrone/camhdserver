@@ -68,10 +68,21 @@ Notes and links researching the new CamHD Compute Engine server.
 
 ??
 
-#### Total ####
+#### Summary ####
 
-$14,621
-
-
+| Item | Qty | Each | Total |
+| --- | ---: | ---: | ---: |
+| Supermicro motherboard (X10DAC) | 1 | 508 | 508 |
+| Supermicro chassis (846BA-R920B) | 1 | 1,249 | 1,249 |
+| Supermicro hotswap adapter (MCP-220-84606-0N) | 1 | 60 | 60 |
+| Intel Xeon E5-2699 v4 | 2 | 1,800 | 3,600 |
+| Supermicro heat sink (SNK-P0050AP4) | 2 | 43 | 86 |
+| Samsung memory (M393A4K40BB1-CRC) | 8 | 314 | 2,512 |
+| Adaptec HBA (1000-8i) | 2 | 200 | 400 |
+| SAS cabling (SFF-8087 --> SFF-8643) | 6 | 17 | 102 |
+| Samsung SSD (MZ-7KE256BW) | 2 | 140 | 280 |
+| Seagate 10 TB SAS drives (0000NM0206) | 14 | 416 | 5,824 |
+| WD 10 TB SATA drves (WD101KRYZ) | 2 | 0 | 0 |
+| | | | **$14,621** |
 
 
