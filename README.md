@@ -6,6 +6,8 @@ Notes and links researching the new CamHD Compute Engine server.
 
 1x [Supermicro X10DAC](http://www.supermicro.com/products/motherboard/xeon/c600/x10dac.cfm)
  - [http://a.co/87nLQiv](http://a.co/87nLQiv)
+ - [review](https://www.servethehome.com/supermicro-x10dac-workstation-motherboard-sas3-review)
+ - onboard 8-port 12 Gb/s SAS 3008 HBA
  - $508
 
 #### Case ####
@@ -32,6 +34,7 @@ Notes and links researching the new CamHD Compute Engine server.
 
 8x [Timetec Samsung IC 32GB DDR4 2400MHz PC4-19200 Registered ECC](http://a.co/7y3TGnH)
  - $290/ea
+ - very flexible on memory. don't really care as long as it works.
 
 #### HBAs ####
 
@@ -44,13 +47,31 @@ Notes and links researching the new CamHD Compute Engine server.
 6x [Internal Mini SAS HD Cable SFF-8087 (backplane) --> SFF-8643 (HBAs)](http://a.co/eJLChUG)
  - $17/ea
 
-#### Hard Drives ####
+#### Hard Drives / Volumes ####
 
 2x [SAMSUNG 850 PRO 256GB SSD MZ-7KE256BW](https://www.newegg.com/Product/Product.aspx?Item=N82E16820147360)
  - $140/ea
+ - /
+ - ext4 RAID 1 (mdadm)
 
-10x [Seagate Enterprise 10TB SAS 12Gb/s 0000NM0206](https://www.newegg.com/Product/Product.aspx?Item=1Z4-002P-00509)
+14x [Seagate Enterprise 10TB SAS 12Gb/s 0000NM0206](https://www.newegg.com/Product/Product.aspx?Item=1Z4-002P-00509)
  - $416/ea
+ - /data
+ - btrfs RAID 6
+
+2x [WD Gold Enterprise 10TB SATA 6Gb/s WD101KRYZ](https://www.newegg.com/Product/Product.aspx?Item=N82E16822235131)
+ - $0/ea (own)
+ - /home
+ - btrfs RAID 1
 
 #### UPS ####
+
+??
+
+#### Total ####
+
+$14,400
+
+
+
 
