@@ -8,7 +8,6 @@ Notes and links researching the new CamHD Compute Engine server.
  - [http://a.co/87nLQiv](http://a.co/87nLQiv)
  - [review](https://www.servethehome.com/supermicro-x10dac-workstation-motherboard-sas3-review)
  - onboard 8-port 12 Gb/s SAS 3008 HBA
- - i think we should go with the non-expander backplane, which appears to be the standard.
  - $508
 
 #### Case ####
@@ -28,9 +27,8 @@ Notes and links researching the new CamHD Compute Engine server.
 
 #### Heat Sinks ####
 
-2x [Supermicro SNK-P0048AP4](https://www.newegg.com/Product/Product.aspx?Item=N82E16835184040)
- - could also do Intel or some other brand. don't really care.
- - $33/ea
+2x [Supermicro 4U Active CPU Heat Sink Socket LGA2011 (SNK-P0050AP4)](http://store.supermicro.com/heatsink/4u-active-cpu-cooler-snk-p0050ap4.html)
+ - $43/ea
 
 #### Memory ####
 
