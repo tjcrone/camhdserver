@@ -8,6 +8,7 @@ Notes and links researching the new CamHD Compute Engine server.
  - [http://a.co/87nLQiv](http://a.co/87nLQiv)
  - [review](https://www.servethehome.com/supermicro-x10dac-workstation-motherboard-sas3-review)
  - onboard 8-port 12 Gb/s SAS 3008 HBA
+ - i think we should go with the non-expander backplane, which appears to be the standard.
  - $508
 
 #### Case ####
@@ -28,6 +29,7 @@ Notes and links researching the new CamHD Compute Engine server.
 #### Heat Sinks ####
 
 2x [Supermicro SNK-P0048AP4](https://www.newegg.com/Product/Product.aspx?Item=N82E16835184040)
+ - could also do Intel or some other brand. don't really care.
  - $33/ea
 
 #### Memory ####
@@ -40,6 +42,7 @@ Notes and links researching the new CamHD Compute Engine server.
 
 2x [Microsemi Adaptec HBA 1000-8i](https://storage.microsemi.com/en-us/support/sas/sas/aha-1000-8i)
  - two internal mini SAS HD (SFF-8643)
+ - hardware raid not required.
  - $200/ea
 
 #### Cabling ####
@@ -51,17 +54,17 @@ Notes and links researching the new CamHD Compute Engine server.
 
 2x [SAMSUNG 850 PRO 256GB SSD MZ-7KE256BW](https://www.newegg.com/Product/Product.aspx?Item=N82E16820147360)
  - $140/ea
- - /
+ - mount: /
  - ext4 RAID 1 (mdadm)
 
 14x [Seagate Enterprise 10TB SAS 12Gb/s 0000NM0206](https://www.newegg.com/Product/Product.aspx?Item=1Z4-002P-00509)
  - $416/ea
- - /data
+ - mount: /data
  - btrfs RAID 6
 
 2x [WD Gold Enterprise 10TB SATA 6Gb/s WD101KRYZ](https://www.newegg.com/Product/Product.aspx?Item=N82E16822235131)
  - $0/ea (own)
- - /home
+ - mount: /home
  - btrfs RAID 1
 
 #### UPS ####
