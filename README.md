@@ -23,7 +23,11 @@ Notes and links researching the new CamHD Compute Engine server.
 
 2x [Intel Xeon E5-2699 v4](https://ark.intel.com/products/91317/Intel-Xeon-Processor-E5-2699-v4-55M-Cache-2_20-GHz)
  - [http://a.co/i1vo6oW](http://a.co/i1vo6oW)
- - $1800/ea
+ - [https://www.newegg.com/Product/Product.aspx?Item=9SIADGX5SX2234](https://www.newegg.com/Product/Product.aspx?Item=9SIADGX5SX2234)
+ - E5-2696 v4 (OEM tray version) is supposedly the same as the 2699, but rated for 150W
+ - this processor originally released at about $4k msrp, but no retail versions appear to be available
+ - most available units appear to be "new pulls" or tray oem processors from unknown retailers
+ - $1800/ea (OEM tray)
 
 #### Heat Sinks ####
 
